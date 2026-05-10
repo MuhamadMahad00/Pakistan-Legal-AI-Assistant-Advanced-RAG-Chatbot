@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment Variables
+.env
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# ML / AI Files
+models/
+checkpoints/
+wandb/
+
+# Cache
+.cache/
+
+# Node modules (if frontend exists)
+node_modules/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Temporary files
+temp/
+tmp/
+
+# SQLite
+*.sqlite3
